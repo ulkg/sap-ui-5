@@ -3,9 +3,9 @@
    xmlns="sap.m"
    xmlns:mvc="sap.ui.core.mvc">
    <App>
-      <Page title="Meine erste UI5 App">
+      <Page title="MY first UI5 App">
          <content>
-            <Button text="Klick mich" press="onButtonPress"/>
+            <Button text="Click me" press="onButtonPress"/>
          </content>
       </Page>
    </App>
