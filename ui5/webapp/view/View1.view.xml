@@ -1,0 +1,12 @@
+<mvc:View
+   controllerName="ui5.controller.View1"
+   xmlns="sap.m"
+   xmlns:mvc="sap.ui.core.mvc">
+   <App>
+      <Page title="Meine erste UI5 App">
+         <content>
+            <Button text="Klick mich" press="onButtonPress"/>
+         </content>
+      </Page>
+   </App>
+</mvc:View>
